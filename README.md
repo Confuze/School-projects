@@ -1,0 +1,2 @@
+### You should probably ignore this
+This is just a repo I made to simplify my work on school CS projects and homework. It's nothing interesting unless you want to find out how terrible the polish core curriculum is - then this is a perfect place for you.
