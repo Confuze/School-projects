@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Zgadnij liczbę</title>
+	</head>
+	<body></body>
+	<script>
+			alert("Witaj w grze zgadnij liczbę, zaraz zostanie wygenerowana liczba z zakresu 1-10, którą będziesz musiał zgadnąć")
+
+			      const number = Math.ceil(Math.random() * 10);
+			let guess = prompt("Podaj liczbę")
+
+		while (true) {
+		    if (guess == number) {
+			    alert("Gratulacje, zgadłeś liczbę")
+			    break;
+			} else {
+			    guess = prompt("Niestety nie zgadłeś liczby, spróbuj jeszcze raz")
+			}
+		}
+	</script>
+</html>
