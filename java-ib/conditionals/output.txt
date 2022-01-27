@@ -1,0 +1,33 @@
+Task 1:
+Input number: 1000
+Number is positive
+Task 2:
+Input a: 1
+Input b: 9
+Input c: 3
+The roots are -0.34668806854096257 and -8.653311931459037
+Task 3:
+Input the 1st number: 20
+Input the 2nd number: 22
+Input the 3rd number: 24
+The greatest: 24
+Task 4:
+Input a number: 1000000
+positive
+Task 5:
+Input number: 7
+Sunday
+Task 6:
+Input floating-point number: 78.3391
+Input floating-point another number: 78.3399
+Numbers are the same
+Task 7:
+Input a month number: 2
+Input a year: 2000
+February 2000 has 29 days
+Task 8:
+Input an alphabet: p
+Input letter is Consonant
+Task 9:
+Input the year: 1900
+1900 is not a leap year
